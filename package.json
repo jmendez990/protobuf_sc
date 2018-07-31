@@ -1,0 +1,14 @@
+{
+  "name": "protobufer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buftest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JP",
+  "license": "ISC",
+  "dependencies": {
+    "sawtooth-sdk": "^1.0.4"
+  }
+}
