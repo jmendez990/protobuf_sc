@@ -1,0 +1,13 @@
+// payload.proto
+package payloadpackage;
+syntax = "proto3";
+
+message MaterialMessage {
+    string material_id = 1;
+    string material_name = 2;
+    string material_group = 3;
+    string material_type = 4;
+    double material_price = 7;
+    double material_cost = 8;
+    uint32 material_amount = 9;
+}
